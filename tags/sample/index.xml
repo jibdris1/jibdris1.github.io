@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Sample on Jibril Idris Profile</title>
+		<link>http://localhost:1313/tags/sample/</link>
+		<description>Recent content in Sample on Jibril Idris Profile</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 07 Jul 2026 23:29:21 +0530</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/tags/sample/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>AI’s Power Outpaces Its Principles</title>
+				<link>http://localhost:1313/blogs/blog-2/</link>
+				<pubDate>Tue, 07 Jul 2026 23:29:21 +0530</pubDate>
+				<guid>http://localhost:1313/blogs/blog-2/</guid>
+				<description>&lt;h2 id=&#34;paragraph&#34;&gt;Paragraph&lt;/h2&gt;&#xA;&lt;p&gt;Xerum, quo qui aut unt expliquam qui dolut labo. Aque venitatiusda cum, voluptionse latur sitiae dolessi aut parist aut dollo enim qui voluptate ma dolestendit peritin re plis aut quas inctum laceat est volestemque commosa as cus endigna tectur, offic to cor sequas etum rerum idem sintibus eiur? Quianimin porecus evelectur, cum que nis nust voloribus ratem aut omnimi, sitatur? Quiatem. Nam, omnis sum am facea corem alique molestrunt et eos evelece arcillit ut aut eos eos nus, sin conecerem erum fuga. Ri oditatquam, ad quibus unda veliamenimin cusam et facea ipsamus es exerum sitate dolores editium rerore eost, temped molorro ratiae volorro te reribus dolorer sperchicium faceata tiustia prat.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>When Anonymous Isn’t Really Anonymous</title>
+				<link>http://localhost:1313/blogs/blog-1/</link>
+				<pubDate>Tue, 07 Jul 2026 23:29:21 +0530</pubDate>
+				<guid>http://localhost:1313/blogs/blog-1/</guid>
+				<description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;The Ethics of Data science is ultimately about addressing one important but simple question which is “What is the right thing to do with data?” The week’s lessons emphasized how ethical decision making requires more than technical skill. It demands awareness of privacy risks, transparency gaps, bias, accountability, and the unintended consequences that emerge when data systems are poorly designed.&#xA;A seemingly harmless course evaluation survey provides a perfect case study. Students are asked to log in with their organizational credentials, complete a 10 question survey, and trust that their responses will remain anonymous. Executive management wants to use the results to determine which courses need redesign or improvement. As the data analyst assigned to this task, i must navigate the ethical tensions engrained in the survey’s design and the expectations placed on me.&#xA;This blog analyzes the ethical issues in the survey, explores additional risks, provides recommendations to leadership, and outlines how to proceed ethically even if your concerns are dismissed.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Markdown Syntax</title>
+				<link>http://localhost:1313/blogs/markdown-syntax/</link>
+				<pubDate>Sat, 03 Apr 2021 23:29:21 +0530</pubDate>
+				<guid>http://localhost:1313/blogs/markdown-syntax/</guid>
+				<description>&lt;h2 id=&#34;paragraph&#34;&gt;Paragraph&lt;/h2&gt;&#xA;&lt;p&gt;Xerum, quo qui aut unt expliquam qui dolut labo. Aque venitatiusda cum, voluptionse latur sitiae dolessi aut parist aut dollo enim qui voluptate ma dolestendit peritin re plis aut quas inctum laceat est volestemque commosa as cus endigna tectur, offic to cor sequas etum rerum idem sintibus eiur? Quianimin porecus evelectur, cum que nis nust voloribus ratem aut omnimi, sitatur? Quiatem. Nam, omnis sum am facea corem alique molestrunt et eos evelece arcillit ut aut eos eos nus, sin conecerem erum fuga. Ri oditatquam, ad quibus unda veliamenimin cusam et facea ipsamus es exerum sitate dolores editium rerore eost, temped molorro ratiae volorro te reribus dolorer sperchicium faceata tiustia prat.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Rich Content</title>
+				<link>http://localhost:1313/blogs/rich-content/</link>
+				<pubDate>Sat, 03 Apr 2021 19:53:33 +0530</pubDate>
+				<guid>http://localhost:1313/blogs/rich-content/</guid>
+				<description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#embedded&#34;&gt;Embedded Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/privacy/#configuration&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;&#xA;&lt;h2 id=&#34;x-simple-shortcode&#34;&gt;X Simple Shortcode&lt;/h2&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;{{&amp;lt; x user=&amp;#34;GoHugoIO&amp;#34; id=&amp;#34;1315233626070503424&amp;#34; &amp;gt;}}&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;br&gt;&#xD;&#xA;&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Profile is a customizable single-page portfolio theme for Hugo featuring a contact form and blog. Made by &lt;a href=&#34;https://x.com/gurusabarishh?ref_src=twsrc%5Etfw&#34;&gt;@gurusabarishh&lt;/a&gt;.&lt;a href=&#34;https://t.co/KwYcwfdy16&#34;&gt;https://t.co/KwYcwfdy16&lt;/a&gt;&lt;/p&gt;&amp;mdash; GoHugo.io (@GoHugoIO) &lt;a href=&#34;https://x.com/GoHugoIO/status/1315233626070503424?ref_src=twsrc%5Etfw&#34;&gt;October 11, 2020&lt;/a&gt;&lt;/blockquote&gt;&#xA;&lt;script async src=&#34;https://platform.x.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&#xA;&#xA;&#xD;&#xA;&lt;br&gt;&#xD;&#xA;&lt;h2 id=&#34;vimeo-simple-shortcode&#34;&gt;Vimeo Simple Shortcode&lt;/h2&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;{{&amp;lt; vimeo 146022717 &amp;gt;}}&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;br&gt;&#xD;&#xA;&#xA;&#x9;&#x9;&#x9;&lt;div&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&lt;iframe&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;src=&#34;https://player.vimeo.com/video/146022717?dnt=0&#34;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allow=&#34;fullscreen&#34;&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&lt;/iframe&gt;&#xA;&#x9;&#x9;&#x9;&lt;/div&gt;&#xA;&#xD;&#xA;&lt;br&gt;&#xD;&#xA;&lt;h2 id=&#34;youtube-simple-shortcode&#34;&gt;Youtube Simple Shortcode&lt;/h2&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;{{&amp;lt; youtube w7Ft2ymGmfc &amp;gt;}}&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;br&gt;&#xD;&#xA;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;&#x9;&#x9;&#x9;&lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/w7Ft2ymGmfc?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;&#xA;&#x9;&#x9;&lt;/div&gt;&#xA;&#xD;&#xA;&lt;br&gt;&#xD;&#xA;&lt;h2 id=&#34;theme-custom-shortcodes&#34;&gt;Theme Custom Shortcodes&lt;/h2&gt;&#xA;&lt;p&gt;These shortcodes are not Hugo built-ins, but are provided by the theme.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>
